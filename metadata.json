@@ -1,0 +1,7 @@
+{
+  "name": "NutriSnap - AI Calorie & Deficit Tracker",
+  "description": "Smart AI-powered food photo calorie and macronutrient tracker with Mifflin-St Jeor TDEE and deficit calculation.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
